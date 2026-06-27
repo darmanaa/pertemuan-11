@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <rect width="800" height="480" fill="#f5f0ff"/>
+  <rect x="40" y="40" width="720" height="400" rx="24" fill="#ffffff"/>
+  <rect x="60" y="70" width="260" height="24" rx="12" fill="#d63031" opacity="0.15"/>
+  <rect x="60" y="110" width="180" height="16" rx="8" fill="#d63031" opacity="0.15"/>
+  <rect x="60" y="150" width="680" height="220" rx="16" fill="#fdf2f2"/>
+  <circle cx="400" cy="260" r="54" fill="#d63031" opacity="0.15"/>
+  <text x="400" y="268" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" fill="#d63031">!</text>
+  <text x="400" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#333">Error state</text>
+</svg>
